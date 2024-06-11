@@ -9,7 +9,7 @@ The Clerk's Table Calendar in the Canadian Parliament is a striking embodiment o
 Constructed from a combination of finely crafted wood and metal, the calendar exudes a sense of permanence and authority. The wood base provides stability, while the metal accents add a touch of elegance and durability. This blend of materials not only enhances the aesthetic appeal but also ensures the calendar's longevity. The calendar's design is both functional and symbolic, serving as a constant reminder of the structured and orderly nature of parliamentary proceedings. Its presence on the Clerk's table underscores the importance of precision and organization in the legislative process, making it an essential tool in the daily operations of the Canadian Parliament.
 
 #
-### Digtial Clerk's Table Calendar Concept
+### Digital Clerk's Table Calendar Concept
 
 ![Canadian Parliament Clerk's Table Calendar](https://github.com/sourceduty/Canadoan_Clerk_Table_Calendar/assets/123030236/c56a86b8-d7be-4f1e-80b3-8bd4c172cc89)
 
